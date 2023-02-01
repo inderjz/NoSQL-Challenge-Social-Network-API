@@ -19,17 +19,31 @@
   
   ## [Description](#table-of-contents)
 
-  My Project is a backend program for an online store that communicates with a MySQL database using Sequelize. A user may browse the items, categories, and tags using insomnia, as well as modify the database using CRUD operations.
-
-  I created this project to help stores that sell stuff online for example clothing.
-
-  Anyone can use this project for their online store.
+  This is an API set for a social network that makes use of the moment package to format time stamps, Express.js for routing, Mongoose ODM, and a MongoDB database to enable the website to manage massive volumes of unstructured data.
 
   ## [Installation](#table-of-contents)
 
-  To install this project first clone this repo to your computer and install mysql2 and sequelize.
+  To use this project first clone this repo to your computer and make sure you have mongoDB installed. 
   
-  <img width="565" alt="Screenshot 2023-01-10 at 7 05 10 PM" src="https://user-images.githubusercontent.com/112728880/211708884-a886ec94-9314-47a5-80b7-0a2a9d4c3877.png">
+  After coloning the repo run the following commands in the root of the repo. 
+  -npm init -y
+  -npm install express
+  -npm install mongoose
+  -npm install moment
+  
+  After running the following commands successfully start the server with following command 'npm start'.
+  
+  <img width="570" alt="Screenshot 2023-01-31 at 7 56 39 PM" src="https://user-images.githubusercontent.com/112728880/215950791-d9447977-e2b5-49c0-8358-473421c42794.png">
+
+<img width="756" alt="Screenshot 2023-01-31 at 7 58 29 PM" src="https://user-images.githubusercontent.com/112728880/215951911-cb28f5bf-a31f-49f1-92e1-59200823f0f8.png">
+
+<img width="765" alt="Screenshot 2023-01-31 at 7 58 56 PM" src="https://user-images.githubusercontent.com/112728880/215951953-d13bae98-2ad1-48d6-bf41-cfe09f2930c2.png">
+
+<img width="764" alt="Screenshot 2023-01-31 at 7 59 17 PM" src="https://user-images.githubusercontent.com/112728880/215951975-f563b9cf-a04e-46cb-90fa-b2ee4abb1122.png">
+
+<img width="766" alt="Screenshot 2023-01-31 at 7 59 37 PM" src="https://user-images.githubusercontent.com/112728880/215952072-400838ea-bc16-4296-9b25-ca9eae632d55.png">
+
+<img width="756" alt="Screenshot 2023-01-31 at 7 59 58 PM" src="https://user-images.githubusercontent.com/112728880/215952117-5fe62f3d-1981-4f9d-9965-b871e9eb23cc.png">
 
 
   ## [Usage](#table-of-contents)
