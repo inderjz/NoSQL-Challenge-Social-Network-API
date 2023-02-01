@@ -43,16 +43,12 @@
 
 <img width="766" alt="Screenshot 2023-01-31 at 7 59 37 PM" src="https://user-images.githubusercontent.com/112728880/215952072-400838ea-bc16-4296-9b25-ca9eae632d55.png">
 
-<img width="756" alt="Screenshot 2023-01-31 at 7 59 58 PM" src="https://user-images.githubusercontent.com/112728880/215952117-5fe62f3d-1981-4f9d-9965-b871e9eb23cc.png">
-
 
   ## [Usage](#table-of-contents)
 
   To utilize this application, a user must first launch the server on a local computer. They must then make database requests using a program like Insomina. To do that use terminal to get into your file path and first use the following command 'npm run seed' and then use the following command 'npm start' and it will start on your local server.
   
-<img width="568" alt="Screenshot 2023-01-10 at 7 06 06 PM" src="https://user-images.githubusercontent.com/112728880/211708905-a4beef40-8a4e-4280-ac82-7980b9389fb0.png">
-
-  <img width="568" alt="Screenshot 2023-01-10 at 7 06 18 PM" src="https://user-images.githubusercontent.com/112728880/211708910-557313d5-f315-44b3-aff8-1fcc8043ed29.png">
+<img width="756" alt="Screenshot 2023-01-31 at 7 59 58 PM" src="https://user-images.githubusercontent.com/112728880/215952117-5fe62f3d-1981-4f9d-9965-b871e9eb23cc.png">
 
   
   ## [License](#table-of-contents)
